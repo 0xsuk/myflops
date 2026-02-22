@@ -1,0 +1,3 @@
+gpu/sim/obj/
+gpu/sim/*.vcd
+gpu/sim/gpu_sim
