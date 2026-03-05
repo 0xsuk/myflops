@@ -1,3 +1,7 @@
 gpu/sim/obj/
 gpu/sim/*.vcd
 gpu/sim/gpu_sim
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
